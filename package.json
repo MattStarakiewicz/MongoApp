@@ -1,0 +1,32 @@
+{
+  "name": "mongoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattStarakiewicz/MongoApp.git"
+  },
+  "keywords": [
+    "mongoDB",
+    "Mongoose\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CMongoose",
+    "CRUD",
+    "Node",
+    "Robomongo",
+    "GUI"
+  ],
+  "author": "Matt Star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattStarakiewicz/MongoApp/issues"
+  },
+  "homepage": "https://github.com/MattStarakiewicz/MongoApp#readme",
+  "dependencies": {
+    "mongoose": "^5.5.11"
+  }
+}
