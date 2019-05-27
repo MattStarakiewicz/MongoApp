@@ -2,8 +2,8 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb+srv://MattStar:<password>@kodil-vmvpd.mongodb.net/test?retryWrites=true', {
-    useMongoClient: true
+mongoose.connect('mongodb+srv://MattStar:dnTv48E.GPtdQeK@kodil-vmvpd.mongodb.net/test?retryWrites=true', {
+    useNewUrlParser: true
 });
 
 //new user Schema
