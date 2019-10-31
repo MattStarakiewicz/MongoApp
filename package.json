@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/MattStarakiewicz/MongoApp#readme",
   "dependencies": {
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   }
 }
